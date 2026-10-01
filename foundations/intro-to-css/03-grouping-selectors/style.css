@@ -1,1 +1,12 @@
-/* Add CSS Styling */
+.click {
+    background-color: #000000;
+    color: lab(100% 0.01 -0.01);
+}
+.noclick {
+    background-color: hsl(60, 100%, 50%);
+}
+
+.click, .noclick {
+    font-size: 28px;
+    font-family: helvetica, "Times New Roman", sans-serif;
+}
