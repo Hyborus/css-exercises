@@ -1,1 +1,6 @@
-/* Add CSS Styling */
+div .text {
+    background-color: oklch(96.798% 0.21094 109.783);
+    color: lch(53.23% 104.58 40);
+    font-size: 20px;
+    text-align: center;
+}
